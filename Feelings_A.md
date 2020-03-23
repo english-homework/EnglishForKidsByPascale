@@ -7,6 +7,6 @@
 ***Answers:*** **'I'm happy.'(Je suis content(e).); 'I'm very happy.' (Je suis très content(e).); 'I'm sad.' (Je suis triste.); 'I'm angry.' (Je suis faché(e).); 'I'm tired.' (Je suis fatigué(e).); 'I'm hungry.' (J'ai faim.)**  
 
 ***
-[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)  
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://english-homework.github.io/EnglishForKidsByPascale)  
 
 ***

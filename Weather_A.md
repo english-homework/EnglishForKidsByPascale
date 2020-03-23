@@ -20,7 +20,7 @@
 [![weme2](/images/weme2.PNG){:height="75px"}](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) [Jeu de mémoire](http://www.eslgamesworld.com/members/games/vocabulary/memoryaudio/weather/index.html) (Jeu de ESL Games World)  
 
 ***
-[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://english-homework.github.io/EnglishForKidsByPascale)
 
 ***
 ![note](/images/note.PNG){:width="638px"}

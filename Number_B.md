@@ -1,8 +1,8 @@
 ### Number/Numéros
 
-#### [![numb2](/images/numb2.PNG){:height="75px"}](https://english-homework.github.io/KidooLand/Number_I) [Apprendre números 1-10/Learn Numbers 1-10](https://english-homework.github.io/KidooLand/Number_I)   
+#### [![numb2](/images/numb2.PNG){:height="75px"}](https://english-homework.github.io/EnglishForKidsByPascale/Number_I) [Apprendre números 1-10/Learn Numbers 1-10](https://english-homework.github.io/EnglishForKidsByPascale/Number_I)   
 
-#### [![numb3](/images/numb3.PNG){:height="75px"}](https://english-homework.github.io/KidooLand/Number_II) [Apprendre números 1-20/Learn Numbers 1-20](https://english-homework.github.io/KidooLand/Number_II)    
+#### [![numb3](/images/numb3.PNG){:height="75px"}](https://english-homework.github.io/EnglishForKidsByPascale/Number_II) [Apprendre números 1-20/Learn Numbers 1-20](https://english-homework.github.io/EnglishForKidsByPascale/Number_II)    
 
 ### Language Structures
 
@@ -22,6 +22,6 @@
 
 ***
 
-[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://english-homework.github.io/EnglishForKidsByPascale)
 
 ***

@@ -30,6 +30,6 @@ NB: Cette activité semble fonctionner mieux en utilisant Internet Explorer
 ***Answer:*** **'I’m fine, thank you.' (Ça va bien, merci.)**
 
 ***
-[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)  
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://english-homework.github.io/EnglishForKidsByPascale)  
 
 ***

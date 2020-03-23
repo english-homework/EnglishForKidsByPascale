@@ -39,7 +39,7 @@
 [![litccol](/images/litccol.PNG){:height="75px"}](http://literacycenter.net/play_learn/words_en/color_type_en.php) [![litccolbfr](/images/litccolbfr.PNG){:height="40px"}](http://literacycenter.net/play_learn/words_en/color_type_en.php)  
 
 ***
-[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://english-homework.github.io/EnglishForKidsByPascale)
 
 ***
 

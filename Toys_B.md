@@ -64,7 +64,7 @@ Défi supplémentaire : peux-tu faire toutes les activités? Clique sur
 (Jeu de Anglomaniacy)  
 
 ***
-[![home](/images/home.png){:height="50px"}](https://https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://https://english-homework.github.io/KidooLand)
+[![home](/images/home.png){:height="50px"}](https://https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://https://english-homework.github.io/EnglishForKidsByPascale)
 
 ***
 ![note](/images/note.PNG){:width="638px"}

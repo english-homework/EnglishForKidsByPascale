@@ -30,10 +30,10 @@ Pour chaque gâteau, réponde à la question "quel âge a l'enfant?". Clique sur
 
 ***  
 
-* Se tu déjà sais 1 à 10, [travaille 1 à 20](https://english-homework.github.io/KidooLand/Number_II)  
+* Se tu déjà sais 1 à 10, [travaille 1 à 20](https://english-homework.github.io/EnglishForKidsByPascale/Number_II)  
    
 ***
-[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://english-homework.github.io/EnglishForKidsByPascale)
 
 ***
 

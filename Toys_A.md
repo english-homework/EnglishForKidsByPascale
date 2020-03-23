@@ -26,7 +26,7 @@
 [![mety](/images/mety.PNG){:height="75px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/)  [![memins1fr](/images/memins1fr.PNG){:height="50px"}](https://www.kidslearningville.com/toys-vocabulary-esl-memory-game/) (Jeu de Kids Learning Ville)  
 
 ***
-[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://english-homework.github.io/EnglishForKidsByPascale)
 
 ***
 ![note](/images/note.PNG){:width="638px"}

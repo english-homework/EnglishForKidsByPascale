@@ -31,7 +31,7 @@ Fais défiler vers le bas jusqu'au milieu de la page.
 Lis le bulletin météo. Fais glisser le symbole météo sur le point rose.  
 
 ***
-[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://english-homework.github.io/EnglishForKidsByPascale)
 
 ***
 ![note](/images/note.PNG){:width="638px"}

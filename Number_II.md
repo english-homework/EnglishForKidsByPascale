@@ -12,7 +12,7 @@ Dis le numéro à haute voix, éclate le ballon puis écoute pour vérifier. (Je
 [![nobi1](/images/nobi1.PNG){:height="75px"}]( http://www.abcya.com/number_bingo.htm) [Joue au bingo]( http://www.abcya.com/number_bingo.htm) Clique sur le bouton ![nobi4](/images/nobi4.PNG){:height="60px"} (Jeu de ABCya)    
 
 ***
-[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://english-homework.github.io/EnglishForKidsByPascale)
 
 ***
 

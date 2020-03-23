@@ -46,10 +46,10 @@ I can sing a rainbow, sing a rainbow, sing a rainbow too.
 
 [![meco](/images/meco.PNG){:height="75px"}](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) [Jeu de memoire](https://www.eslgamesplus.com/colors-vocabulary-esl-memory-game/) (Jeu de ESL Games Plus)    
 
-<!--#### ![sing](/images/sing.png){:height="40px"} [Song/Canção](https://english-homework.github.io/KidooLand/Colours_A_song)
-#### ![silh_game](/images/silh_game.jpg){:height="40px"} [Games/Jogos](https://english-homework.github.io/KidooLand/Colours_A_g)-->
+<!--#### ![sing](/images/sing.png){:height="40px"} [Song/Canção](https://english-homework.github.io/EnglishForKidsByPascale/Colours_A_song)
+#### ![silh_game](/images/silh_game.jpg){:height="40px"} [Games/Jogos](https://english-homework.github.io/EnglishForKidsByPascale/Colours_A_g)-->
 
 ***
-[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://english-homework.github.io/EnglishForKidsByPascale)
 
 ***

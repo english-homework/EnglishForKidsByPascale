@@ -43,6 +43,6 @@ I can sing a rainbow, sing a rainbow, sing a rainbow today.
 ![colmix2](/images/colmix2.png) ![rainbbfr](/images/rainbbfr.PNG){:height="95px"}-->
 
 ***
-[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/KidooLand) [Return to the English Homepage](https://english-homework.github.io/KidooLand)
+[![home](/images/home.png){:height="50px"}](https://english-homework.github.io/EnglishForKidsByPascale) [Return to the English Homepage](https://english-homework.github.io/EnglishForKidsByPascale)
 
 ***
