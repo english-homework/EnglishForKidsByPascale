@@ -1,4 +1,4 @@
-<h2> 
+<!--<h2> 
 <p align="center">
 English
 </p>
@@ -14,7 +14,7 @@ English
   <br>
 </p>
 
-<!--<p align="center">
+<p align="center">
   <a href="https://1blockatatime.github.io/English/FR/FR_C">Level 3</a>
   <br>
 </p>
